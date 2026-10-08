@@ -5,7 +5,7 @@ title_separator: "-"
 name: &name "Majd Kassem"
 description: &description "Software Quality Assurance Engineer and PhD researcher interested in software testing, embedded systems, and applied AI."
 url: "https://majd-j-kassem.github.io"
-baseurl: ""
+baseurl: "/majd_kassem.github.io"
 repository: "majd-j-kassem/majd_kassem.github.io"
 
 author:
